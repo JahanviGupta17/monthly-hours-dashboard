@@ -90,11 +90,5 @@ Pull requests, feature suggestions, and bug reports are welcome!
 
 ## 📬 Contact
 
-For questions or collaboration, please reach out at \[[your-email@example.com](mailto:your-email@example.com)].
+For questions or collaboration, please reach out at \[[gjahanvis07@gmail.com](mailto:your-email@example.com)].
 
-```
-
----
-
-Let me know if you'd like this tailored with your GitHub username, email, or logo added — or if you're planning to deploy it (e.g., on Streamlit Cloud) and want a "Live Demo" section!
-```
